@@ -1,1 +1,8 @@
 
+
+  cloud:
+    config:
+      git:
+        server:
+          uri: https://github.com/73406Rohit/Microservices
+          clone-on-start-true:
